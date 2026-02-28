@@ -25,5 +25,32 @@ The core logic and dialogue state management methodologies are heavily inspired 
 ## 🚀 How to Run
 
 1. Clone this repository to your local machine:
-   ```bash
+   ```
    git clone [https://github.com/dovh11/ELIZA-Style-Procrastination-Support-Chatbot.git](https://github.com/dovh11/ELIZA-Style-Procrastination-Support-Chatbot.git)
+   ```
+2. Navigate to the project directory:
+   ```
+   cd ELIZA-Style-Procrastination-Support-Chatbot
+   ```
+3. Run the python script:
+   ```
+   python eliza.py
+   ```
+
+## 💬 Example Conversation
+**User**: I have a big assignment due tomorrow but I keep watching videos.
+
+**ELIZA**: Why do you think you keep watching videos instead of working on your big assignment?
+
+**User**: Because the assignment is too difficult and I am overwhelmed.
+
+**ELIZA**: I understand. When you feel overwhelmed, what is the smallest first step you can take right now?
+
+**User**: I guess I could just open the document and write the title.
+
+**ELIZA**: That sounds like a great start. Tell me more about how you plan to tackle it after writing the title.
+
+## 📚 References
+* Jurafsky, D., & Martin, J. H. Speech and Language Processing. (Concepts on rule-based NLP and ELIZA architecture).
+
+*Developed by Vu Huy Do as part of an academic exploration into foundational NLP methodologies.*
