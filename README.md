@@ -3,6 +3,8 @@
 
 ## 📌 Overview
 
+<img width="447" height="132" alt="image" src="https://github.com/user-attachments/assets/29f5c144-6d1a-46aa-a724-18697289bdcc" />
+
 This project is a rule-based conversational agent implemented in Python, inspired by the classic ELIZA architecture (created by Joseph Weizenbaum). Tailored specifically to address productivity issues, this chatbot acts as a digital companion to help users manage procrastination, overcome creative blocks, and regain focus.
 
 The core logic and dialogue state management methodologies are heavily inspired by the concepts taught in Jurafsky & Martin's renowned textbook, _Speech and Language Processing_.
