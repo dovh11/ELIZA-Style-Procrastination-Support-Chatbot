@@ -34,7 +34,7 @@ The core logic and dialogue state management methodologies are heavily inspired 
    ```
 3. Run the python script:
    ```
-   python eliza.py
+   python chatbot.ipynb
    ```
 
 ## 💬 Example Conversation
